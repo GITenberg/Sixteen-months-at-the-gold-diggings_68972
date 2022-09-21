@@ -1,0 +1,25 @@
+_repo: Sixteen-months-at-the-gold-diggings_68972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woods, Daniel B.
+    gutenberg_agent_id: '55035'
+    url: http://www.gutenberg.org/2009/agents/55035
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68972'
+language: en
+pgterms:marc905: 20220526055637woods
+pgterms:marc906: '1852'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United States :Harper & Brothers,1852.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sixteen months at the gold diggings
+url: http://www.gutenberg.org/ebooks/68972
